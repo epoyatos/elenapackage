@@ -1,0 +1,8 @@
+Package: karinmoyapackage
+Title: Personalized functions to sum and search numbers
+Version: 0.1
+Authors@R: person("Karin", "Moya", email = "karinmoya@gmail.com", role = c("aut", "cre"))
+Description: Package created as homework for the U-tad Data Science season II
+Depends: R (>= 3.2.1)
+License: Apache license Version 2
+LazyData: true
